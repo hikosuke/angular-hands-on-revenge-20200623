@@ -10,7 +10,7 @@ export const todoList: Todo[] = [
     completed: false
   },
   {
-    title: 'angular hands-onの復習',
+    title: 'ハンズオンの復習をする',
     completed: true
   }
 ];
